@@ -6,6 +6,6 @@
 
 ### Both Modules Are Made By [@venaxyt] -> https://github.com/venaxyt/
 
-### https://github.com/venaxyt/gratient | https://pypi.org/project/gratient | pip install gratient
+https://github.com/venaxyt/gratient | https://pypi.org/project/gratient | pip install gratient
 
-### https://github.com/venaxyt/fade | https://pypi.org/project/fade | pip install fade
+https://github.com/venaxyt/fade | https://pypi.org/project/fade | pip install fade
