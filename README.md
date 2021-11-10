@@ -10,4 +10,4 @@ https://github.com/venaxyt/gratient | https://pypi.org/project/gratient | pip in
 
 https://github.com/venaxyt/fade | https://pypi.org/project/fade | pip install fade
 
-This took some time so motivate me to do more like this by giving it a star 😄
+This took some time so motivate me to do more like this by giving it a star! 😄
