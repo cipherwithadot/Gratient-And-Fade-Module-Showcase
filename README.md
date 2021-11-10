@@ -2,7 +2,7 @@
 
 ### This is a python program to showcase two modules (Gratient And Fade).
 
-### I really like borh of these modules so i decided to code a program which prints out faded and gradient text!
+### I really like both of these modules so i decided to code a program which prints out faded and gradient text!
 
 ## Both Modules Are Nade By @venaxyt !
 
