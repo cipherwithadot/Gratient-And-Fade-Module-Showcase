@@ -1,11 +1,11 @@
-# Hellooo, It's Pndaboi here!
+# Hellooo, It's PndaBoi Here!
 
-## This is a python program to showcase two modules (Gratient And Fade).
+## This Is A Python Program To Showcase Two Modules (Gratient And Fade).
 
-### I really like both of these modules so i decided to write a program which prints out all of the color themes of faded and gradient!
+### I Really Like Both Of These Modules So I Decided To Write A Program Which Prints Out All Of The Color Themes Of Faded And Gradient!
 
-## Both Modules Are Made By @venaxyt !
+## Both Modules Are Made By [@venaxyt] -> https://github.com/venaxyt/
 
-## https://github.com/venaxyt/gratient | https://pypi.org/project/gratient | pip install gratient
+### https://github.com/venaxyt/gratient | https://pypi.org/project/gratient | pip install gratient
 
-## https://github.com/venaxyt/fade | https://pypi.org/project/fade | pip install fade
+### https://github.com/venaxyt/fade | https://pypi.org/project/fade | pip install fade
