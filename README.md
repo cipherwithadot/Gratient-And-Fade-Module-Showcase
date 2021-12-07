@@ -1,8 +1,8 @@
 # Hellooo, It's PndaBoi Here!
 
-### This Is A Python Program To Showcase Two Modules (Gratient And Fade).
+This Is A Python Program To Showcase Two Modules (Gratient And Fade).
 
-### I Really Like Both Of These Modules So I Decided To Write A Program Which Prints Out All Of The Color Themes Of Faded And Gradient!
+I Really Like Both Of These Modules So I Decided To Write A Program Which Prints Out All Of The Color Themes Of Faded And Gradient!
 
 ### Both Modules Are Made By [@venaxyt] -> https://github.com/venaxyt/
 
